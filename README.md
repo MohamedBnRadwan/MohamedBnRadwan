@@ -1,5 +1,5 @@
 ## Hi there 👋
-Updating is processing...
+Updating in progress...
 <!--
 🔭 I’m currently working on <a href='https://iwgt.ae' target='_blank'>IWGT</a>
 **MohamedBnRadwan/MohamedBnRadwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
