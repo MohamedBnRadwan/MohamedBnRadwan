@@ -66,18 +66,4 @@ but dark mode is always my comfort zone.
 
 ---
 
-### 🧭 **Next Step**
-💡 You can easily build your personal **portfolio website on GitHub Pages** for free.  
-Here’s a simple guide to start:
-
-1. Create a new public repo named **MohamedBnRadwan.github.io**  
-2. Inside it, add your portfolio files (HTML/CSS/JS or a static site generator like Astro or Jekyll)  
-3. Push it to GitHub → Settings → Pages → set branch to `main` → Save  
-4. Your website will be live at **https://MohamedBnRadwan.github.io**
-
-If you’d like, I can **create a starter GitHub portfolio page** for you next —  
-with your colors, sections (Projects, Skills, Contact), and easy theme switching (light/dark).
-
----
-
 ✨ _"Code with purpose, learn with curiosity, and build to empower."_ ✨
