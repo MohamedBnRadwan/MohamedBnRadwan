@@ -1,17 +1,83 @@
-## Hi there 👋
-Updating in progress...
-<!--
-🔭 I’m currently working on <a href='https://iwgt.ae' target='_blank'>IWGT</a>
-**MohamedBnRadwan/MohamedBnRadwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Mohamed Radwan! 👋 
+<div align="right">![](https://komarev.com/ghpvc/?username=MohamedBnRadwan&color=blue)</div>
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedbnradwan)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/mohamedbnradwan)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-lightgrey?logo=github&style=for-the-badge)](https://github.com/MohamedBnRadwan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **I'm a Full Stack Developer.**
+
+💡 Passionate about designing reliable, scalable, and high-performance systems with modern technologies.  
+I have hands-on experience across the full development lifecycle — from analysis and architecture to implementation and deployment — using .NET, Python, and front-end frameworks like Angular and React.  
+I enjoy solving complex challenges in software integration, data analysis, and building real-world tools that help automate and simplify processes.
+
+---
+
+### 🚀 **Currently Working On**
+- Building backend systems for **Tender management applications**
+- Upgrading my expertise in **ASP.NET Core** for modern web and cloud projects
+- Exploring **solar energy automation**, including tools for Arduino-based systems and energy calculations
+
+---
+
+### 💬 **Ask Me About**
+- Security and Banking Integrations  
+- .NET / ASP.NET Core  
+- Angular & React  
+- Python (Pandas, NumPy)  
+- SQL, MySQL, PL/SQL, Oracle  
+- System Analysis & Clean Code Practices  
+
+📫 **Reach me at:** [radwanworkspace@gmail.com](mailto:radwanworkspace@gmail.com)
+
+---
+
+### 🛠️ **Languages & Tools**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Plesk](https://img.shields.io/badge/-Plesk-52B0E7?logo=plesk&logoColor=white&style=flat)
+
+---
+
+### 🌗 **Theme Preference**
+🌓 I enjoy both light and dark themes — light in the morning, dark at night —  
+but dark mode is always my comfort zone.
+
+---
+
+<a href="https://github.com/MohamedBnRadwan">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedBnRadwan&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+
+---
+
+### 🧭 **Next Step**
+💡 You can easily build your personal **portfolio website on GitHub Pages** for free.  
+Here’s a simple guide to start:
+
+1. Create a new public repo named **MohamedBnRadwan.github.io**  
+2. Inside it, add your portfolio files (HTML/CSS/JS or a static site generator like Astro or Jekyll)  
+3. Push it to GitHub → Settings → Pages → set branch to `main` → Save  
+4. Your website will be live at **https://MohamedBnRadwan.github.io**
+
+If you’d like, I can **create a starter GitHub portfolio page** for you next —  
+with your colors, sections (Projects, Skills, Contact), and easy theme switching (light/dark).
+
+---
+
+✨ _"Code with purpose, learn with curiosity, and build to empower."_ ✨
