@@ -60,4 +60,4 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 
 ---
 
-✨ _"Code with purpose, learn with curiosity, and build to empower."_ ✨
+_"Code with purpose, learn with curiosity, and build to empower."_
