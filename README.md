@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedbnradwan)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/mohamedbnradwan)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-lightgrey?logo=github&style=for-the-badge)](https://github.com/MohamedBnRadwan)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-Explore-lightgrey?logo=github&style=for-the-badge)](https://github.com/MohamedBnRadwan)--
 
 ---
 
