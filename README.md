@@ -19,7 +19,7 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 - Building backend systems for **Tender management applications**
 - Upgrading my expertise in **ASP.NET Core** for modern web and cloud projects
 - Exploring **solar energy automation**, including tools for Arduino-based systems and energy calculations
-
+- Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
 ---
 
 ### 💬 **Ask Me About**
@@ -27,10 +27,11 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 - .NET / ASP.NET Core  
 - Angular & React  
 - Python (Pandas, NumPy)  
-- SQL, MySQL, PL/SQL, Oracle  
+- SQL, MySQL, PL/SQL, Oracle, NoSQL Databases
 - System Analysis & Clean Code Practices  
-
-📫 **Reach me at:** [radwanworkspace@gmail.com](mailto:radwanworkspace@gmail.com)
+- DDD, CQRS, RESTful APIs, Software Architecture, Design Patterns, Testing, CI/CD
+  
+📫 **Reach out and connect with me on:** [LinkedIn](https://www.linkedin.com/in/mohamedbnradwan)
 
 ---
 
