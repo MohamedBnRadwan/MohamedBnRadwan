@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohamed Radwan! 👋 
-<div align="right">![](https://komarev.com/ghpvc/?username=MohamedBnRadwan&color=blue)</div>
+<!-- <div align="right">![](https://komarev.com/ghpvc/?username=MohamedBnRadwan&color=blue)</div> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedbnradwan)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/mohamedbnradwan)
