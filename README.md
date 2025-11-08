@@ -53,7 +53,7 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 ![Plesk](https://img.shields.io/badge/-Plesk-52B0E7?logo=plesk&logoColor=white&style=flat)
 
 ---
-<!-&theme=tokyonight->
+<!--&theme=tokyonight-->
 <a href="https://github.com/MohamedBnRadwan">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedBnRadwan&count_private=true&show_icons=true" />
 </a>
