@@ -54,9 +54,9 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 
 ---
 <!--&theme=tokyonight-->
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="doing stuff" width="200" height="200" />
 <a href="https://github.com/MohamedBnRadwan">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=MohamedBnRadwan&count_private=true&show_icons=true" />-->
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="doing stuff" width="200" height="200">
   <img src="https://github.com/MohamedBnRadwan/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://github.com/MohamedBnRadwan/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
