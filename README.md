@@ -1,5 +1,4 @@
-### Hi there, I'm Mohamed Radwan! 👋 
-<!-- <div align="right">![](https://komarev.com/ghpvc/?username=MohamedBnRadwan&color=blue)</div> -->
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=F7C300&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Radwan+%F0%9F%AB%A1;Ask+me+about+tech+%E2%9D%A4%EF%B8%8F;Follow+me%2C+if+you+have+something+interesting+to+share+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'll+searching+your+Profile+%F0%9F%98%89;Take+a+look+here+too+%F0%9F%91%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedbnradwan)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/mohamedbnradwan)
@@ -57,8 +56,9 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 <!--&theme=tokyonight-->
 <a href="https://github.com/MohamedBnRadwan">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=MohamedBnRadwan&count_private=true&show_icons=true" />-->
-<img src="https://github.com/MohamedBnRadwan/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/MohamedBnRadwan/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="doing stuff" width="200" height="200">
+  <img src="https://github.com/MohamedBnRadwan/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/MohamedBnRadwan/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 ---
