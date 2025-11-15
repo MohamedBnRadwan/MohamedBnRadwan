@@ -8,20 +8,20 @@
 
 ## **I'm a Full Stack Developer.**
 
-💡 Passionate about designing reliable, scalable, and high-performance systems with modern technologies.  
+Passionate about designing reliable, scalable, and high-performance systems with modern technologies.  
 I have hands-on experience across the full development lifecycle — from analysis and architecture to implementation and deployment — using .NET, Python, and front-end frameworks like Angular and React.  
 I enjoy solving complex challenges in software integration, data analysis, and building real-world tools that help automate and simplify processes.
 
 ---
 
-### 🚀 **Currently Working On**
+###  **Currently Working On**
 - Building backend systems for **Tender management applications**
 - Upgrading my expertise in **ASP.NET Core** for modern web and cloud projects
 - Exploring **solar energy automation**, including tools for Arduino-based systems and energy calculations
 - Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
 ---
 
-### 💬 **Ask Me About**
+###  **Ask Me About**
 - Security and Banking Integrations  
 - .NET / ASP.NET Core  
 - Angular & React  
@@ -30,11 +30,11 @@ I enjoy solving complex challenges in software integration, data analysis, and b
 - System Analysis & Clean Code Practices  
 - DDD, CQRS, RESTful APIs, Software Architecture, Design Patterns, Testing, CI/CD
   
-📫 **Reach out and connect with me on:** [LinkedIn](https://www.linkedin.com/in/mohamedbnradwan)
+ **Reach out and connect with me on:** [LinkedIn](https://www.linkedin.com/in/mohamedbnradwan)
 
 ---
 
-### 🛠️ **Languages & Tools**
+###  **Languages & Tools**
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
